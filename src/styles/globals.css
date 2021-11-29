@@ -1,3 +1,11 @@
+:root {
+  --color-bg: hsl(180, 25%, 11%);
+  --color-surface: hsl(180, 21%, 22%);
+  --primary: hsl(310, 77%, 79%);
+  --secondary: hsl(50, 79%, 77%);
+  --text: hsl(0, 0%, 95%);
+}
+
 html,
 body {
   padding: 0;
